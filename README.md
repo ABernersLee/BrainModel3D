@@ -13,3 +13,5 @@ For estimating where tetrodes will go from your surgery coordinates and for choo
 
 % run the GUI
 	run_brainmodel(CoordinateInfo,areas_to_plot,imagefile)
+
+email me at abernerslee (either berkeley or gmail) with any questions
