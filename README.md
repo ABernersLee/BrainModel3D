@@ -1,5 +1,7 @@
 # BrainModel3D
-For estimating where tetrodes will go from your surgery coordinates and for choosing good coordinates from a 3D version of the Rat Brain Atlas
+For estimating where tetrodes will go from your surgery coordinates and for choosing good coordinates from a 3D version of the Rat Brain Atlas. Useful for drive design and for tetrode/electrode adjusting.
+
+See example .pngs for examples of visulizations.
 
 % change base to wherever you put the folder
 	addpath(genpath('D:/BrainModel/scripts'))
